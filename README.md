@@ -2,10 +2,7 @@
 
 
 # Hi, I'm Fabrício <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-### Full Stack Developer
-
-Digital Games Student :joystick:
+Full Stack Developer | Digital Games Student :joystick:
 
 ## About me 
 
