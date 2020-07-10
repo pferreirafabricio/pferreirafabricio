@@ -3,7 +3,7 @@
 
 # Hi, I'm Fabrício <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Full Stack Developer
+### Full Stack Developer
 
 Digital Games Student :joystick:
 
@@ -12,7 +12,7 @@ Digital Games Student :joystick:
 :heart: Front End | :purple_heart: Back End | :yellow_heart: Design
 
 - :earth_americas: I'm from Americana - Brazil
-- :coffee: My Stack: VueJS, React and React Native, PHP, NodeJS, MySQL
+- :coffee: PHP, Node, Vue, React, MySQL, Unity
 - :black_nib: I love to create beautiful and usable projects
 - :crossed_swords: I'm passionate about Naruto and Bleach
 
