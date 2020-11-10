@@ -7,7 +7,7 @@ Full Stack Developer | Digital Games Student
 :black_heart: Front End | :black_heart: Back End | :black_heart: Design
 
 - :earth_americas: I'm from Americana - Brazil
-- :coffee: PHP, Node, Vue, MySQL, Unity
+- :coffee: Vue, PHP, C#, MySQL, Unity
 - :black_nib: I love to create beautiful and usable projects
 
 <br/>[![LinkedIn URL](https://img.shields.io/twitter/url?color=2B2B2B&labelColor=2b2b2b&label=connect&logo=linkedin&logoColor=%ffffff&style=flat-square&url=https://www.linkedin.com/in/pferreirafabricio/)](https://www.linkedin.com/in/pferreirafabricio/)
