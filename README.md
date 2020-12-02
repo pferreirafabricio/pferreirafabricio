@@ -1,6 +1,6 @@
 # Hi, I'm Fabrício <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Full Stack Developer | Digital Games Student
-<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>
+<!--<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>-->
 
 ## About me 
 
