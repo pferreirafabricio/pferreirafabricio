@@ -10,8 +10,8 @@ Full Stack Developer | Digital Games Student
 - :coffee: Vue, PHP, C#, MySQL, Unity
 - :black_nib: I love to create beautiful and usable projects
 
-<br/>[![LinkedIn URL](https://img.shields.io/twitter/url?color=2B2B2B&labelColor=2b2b2b&label=connect&logo=linkedin&logoColor=%ffffff&style=flat-square&url=https://www.linkedin.com/in/pferreirafabricio/)](https://www.linkedin.com/in/pferreirafabricio/)
-[![Gmail Badge](https://img.shields.io/badge/-pferreirafabricio@gmail.com-2b2b2b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pferreirafabricio@gmail.com)](mailto:pferreirafabricio@gmail.com)
+<br/>[![LinkedIn URL](https://img.shields.io/twitter/url?color=2B2B2B&labelColor=2b2b2b&label=connect&logo=linkedin&logoColor=%ffffff&style=for-the-badge&url=https://www.linkedin.com/in/pferreirafabricio/)](https://www.linkedin.com/in/pferreirafabricio/)
+[![Gmail Badge](https://img.shields.io/badge/-pferreirafabricio@gmail.com-2b2b2b?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pferreirafabricio@gmail.com)](mailto:pferreirafabricio@gmail.com)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" />
 
