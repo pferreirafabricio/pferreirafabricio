@@ -8,6 +8,7 @@ Full Stack Developer | Digital Games Student
 
 - :earth_americas: I'm from Americana - Brazil
 - :coffee: Vue, PHP, C#, MySQL, Unity
+- :drop_of_blood:	Currently learning Elixir
 - :black_nib: I love to create beautiful and usable projects
 
 <br/>[![LinkedIn URL](https://img.shields.io/twitter/url?color=2B2B2B&labelColor=2b2b2b&label=connect&logo=linkedin&logoColor=%ffffff&style=flat-square&url=https://www.linkedin.com/in/pferreirafabricio/)](https://www.linkedin.com/in/pferreirafabricio/)
