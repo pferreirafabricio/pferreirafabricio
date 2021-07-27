@@ -1,13 +1,12 @@
 # Hi, I'm Fabrício <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-Full Stack Developer 👨🏻‍💻 & Game Developer 🎮
+Full Stack Developer & Game Developer
 <!--<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>-->
 
 ## About me 
 
 :black_heart: Front End | :black_heart: Back End | :black_heart: Design
 
-:electric_plug: **Technologies**:
-<br/><br/>
+### Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -20,9 +19,10 @@ Full Stack Developer 👨🏻‍💻 & Game Developer 🎮
 ![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-:telephone_receiver: **Contact**
-<br/><br/>
+### Contact
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pferreirafabricio/)
+[![Itch URL](https://img.shields.io/badge/Itch.io-FA5C5C?style=flatge&logo=itchdotio&logoColor=white)](https://pferreirafabricio.itch.io/)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" />
 
