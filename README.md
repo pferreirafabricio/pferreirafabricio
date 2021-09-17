@@ -4,7 +4,7 @@ Full Stack Developer & Game Developer
 
 ## About me 
 
-:black_heart: Front End | :black_heart: Back End | :black_heart: Design
+:black_heart: Front End | :black_heart: Back End
 
 ### Technologies
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
