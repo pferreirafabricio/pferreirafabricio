@@ -23,10 +23,8 @@ Developer
 [![Itch URL](https://img.shields.io/badge/Itch.io-FA5C5C?style=flatge&logo=itchdotio&logoColor=white)](https://pferreirafabricio.itch.io/)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pferreirafabricio&langs_count=3&hide=hlsl,shaderlab&theme=dark" />
-
-<br>
 
 ![Metrics](https://metrics.lecoq.io/pferreirafabricio)
 
