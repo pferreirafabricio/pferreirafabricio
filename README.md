@@ -1,7 +1,7 @@
 # Hi, I'm Fabrício
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 Full Stack Developer
-<!--<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>-->
+<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>
 
 ## :open_book: About me 
 
@@ -30,7 +30,6 @@ Full Stack Developer
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/pferreirafabricio)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12542704/fabr%c3%adcio-pinto)
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=pferreirafabricio&count_private=true&show_icons=true&theme=dark" /> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pferreirafabricio&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
 
 ![Metrics](https://metrics.lecoq.io/pferreirafabricio)
