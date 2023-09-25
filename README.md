@@ -32,4 +32,4 @@ Full Stack Developer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pferreirafabricio&langs_count=4&hide=hlsl,shaderlab,jupyter%20notebook,css,html,tex&theme=dark" />
 
-<img align="left" src="./github-metrics.svg" />
+<img align="left" width="450" src="./github-metrics.svg" />
