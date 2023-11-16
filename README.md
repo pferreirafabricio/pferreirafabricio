@@ -1,7 +1,13 @@
-# Hi, I'm Fabrício
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
-Full Stack Developer
-<p><img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square"></p>
+# Hi 🖐
+
+<img src="https://komarev.com/ghpvc/?username=pferreirafabricio&color=grey&style=flat-square">
+
+My name is Fabrício I've been living in São Paulo, Brazil.
+
+I have been working with .NET, PHP, and JavaScript for more than 4 years.
+
+Currently, I am working at [@becomex](https://github.com/becomex) and at my own company, [@fabrecostudio](https://github.com/fabrecostudio).
+
 
 ## :open_book: About me 
 
