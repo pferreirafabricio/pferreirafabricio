@@ -34,7 +34,7 @@ Currently, I am working at [@becomex](https://github.com/becomex) and at my own 
 | Agile | <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
 | Testing | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> |
 | Code Quality | <img alt="SonarCloud" src="https://img.shields.io/badge/-SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white" /> <img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?style=flat-square&logo=sonarlint&logoColor=white" /> <img alt="SonarQube" src="https://img.shields.io/badge/Sonarqube-5190cf?style=flat-square&logo=sonarqube&logoColor=white" /> |
-| Automation | <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white" /> |
+| Shells | <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white" /> |
 </details>
 
 <details>
