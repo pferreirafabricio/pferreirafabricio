@@ -4,7 +4,7 @@
 
 My name is Fabrício I've been living in São Paulo, Brazil.
 
-I have worked with .NET, PHP, and JavaScript for over 4 years.
+I have worked with .NET, PHP, and JavaScript for over 5 years.
 
 Currently, I am working at [@becomex](https://github.com/becomex) and at my own company, [@fabrecostudio](https://github.com/fabrecostudio).
 
