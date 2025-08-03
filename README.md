@@ -10,7 +10,6 @@ Currently, I am working at [@becomex](https://github.com/becomex) (Brazil - remo
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/pferreirafabricio/)
 [![Itch URL](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&color=black)](https://pferreirafabricio.itch.io/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/user/pferreirafabricio)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=black)](https://stackoverflow.com/users/12542704/fabr%c3%adcio-pinto)
 
 <br/>
