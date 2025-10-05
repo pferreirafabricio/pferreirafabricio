@@ -4,7 +4,7 @@
 
 My name is Fabrício. I live in São Paulo, Brazil.
 
-I've been working with JavaScript (React, Next.js, Vue.js, Nuxt), C# (.NET), and PHP (Laravel) for over 5 years.
+I've been working with JavaScript (React, Next.js, Vue.js, Nuxt), C# (.NET), and PHP (Laravel) for over 6 years.
 
 Currently, I am working at [@becomex](https://github.com/becomex) (Brazil - remote), [@bejamas](https://github.com/bejamas) (Poland - remote), and at my own company, [@fabrecostudio](https://github.com/fabrecostudio).
 
