@@ -6,7 +6,7 @@ My name is Fabrício. I live in São Paulo, Brazil.
 
 I've been working with JavaScript/TypeScript (React, Next.js, Vue.js, Nuxt), C# (.NET), and PHP (Laravel) for over 6 years.
 
-Currently, I am working at [@bejamas](https://github.com/bejamas) (Poland, remote) and at my own company, [@fabrecostudio](https://github.com/fabrecostudio).
+Currently, I am working at [@bejamas](https://github.com/bejamas) (Poland - remote) and at my own company, [@fabrecostudio](https://github.com/fabrecostudio) (Brazil - remote).
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/pferreirafabricio/)
 [![Itch URL](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white&color=black)](https://pferreirafabricio.itch.io/)
